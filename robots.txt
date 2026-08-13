@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-spa1sy.salamduit.online/sitemap.xml
